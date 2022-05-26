@@ -1,6 +1,6 @@
 ### Dukemz
 
-Dukemz
+[Dukemz](https://dukemz.github.io)
 <!--### Hi there 👋-->
 
 <!--
