@@ -1,6 +1,14 @@
-### Dukemz
+### why hello there
 
-[Dukemz](https://dukemz.github.io)
+I'm a college student, aspring developer, and professional dumbass. That's... all I have to say for now.
+
+Nothing I've made is particularly interesting yet, but feel free to have a look around.
+
+You can contact me via Discord (username: duckemz) if you'd like to talk about anything.
+
+Check out my website [here](https://dukemz.github.io)!
+
+
 <!--### Hi there 👋-->
 
 <!--
