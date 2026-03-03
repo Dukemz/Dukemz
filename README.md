@@ -8,6 +8,8 @@ Feel free to contact me via Discord (username: duckemz) if you'd like to talk ab
 
 Check out my website [here](https://dukemz.github.io)!
 
+Unrelated note, I'm NOT interested in working on LLM/AI related projects. Please don't contact me about that sort of thing.
+
 
 <!--### Hi there 👋-->
 
